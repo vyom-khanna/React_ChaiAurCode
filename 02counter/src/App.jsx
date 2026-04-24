@@ -4,7 +4,7 @@ import './App.css'
 function App() {
   const addvalue = ()=>{
     if(counter<20){
-      Hiteshcounter(prevcounter => prevcounter+1)
+      Hiteshcounter(counter+1)
       Hiteshcounter(prevcounter => prevcounter+1)
       Hiteshcounter(prevcounter => prevcounter+1)
       Hiteshcounter(prevcounter => prevcounter+1)
